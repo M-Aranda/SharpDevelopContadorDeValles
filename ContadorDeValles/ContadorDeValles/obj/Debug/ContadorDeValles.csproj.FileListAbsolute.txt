@@ -1,0 +1,6 @@
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeValles\ContadorDeValles\bin\Debug\ContadorDeValles.exe.config
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeValles\ContadorDeValles\bin\Debug\ContadorDeValles.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeValles\ContadorDeValles\bin\Debug\ContadorDeValles.pdb
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeValles\ContadorDeValles\obj\Debug\ContadorDeValles.csprojResolveAssemblyReference.cache
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeValles\ContadorDeValles\obj\Debug\ContadorDeValles.exe
+C:\Users\Marce\Documents\SharpDevelop Projects\ContadorDeValles\ContadorDeValles\obj\Debug\ContadorDeValles.pdb
